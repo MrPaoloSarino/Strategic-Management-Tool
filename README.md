@@ -1,2 +1,4 @@
 # Strategic-Management-Tool
-Automatic Creation of End-to-end strategic tools
+Access the MVP here:
+
+https://stratgymgt.netlify.app/
